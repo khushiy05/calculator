@@ -21,6 +21,7 @@ html, body{
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 10px;
 }
 
 .row input{
@@ -30,4 +31,26 @@ html, body{
     border-radius: 5px;
     font-size: 20px;
     width: 291px;
+}
+
+.c button{
+    width: 100px;
+}
+
+.button1{
+    width: 100px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 0;
+    
+}
+
+.buttonD{
+    width: 100px;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 0;
+   
 }
