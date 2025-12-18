@@ -26,7 +26,7 @@ html, body{
 
 .row input{
     margin: 0;
-    padding: 10px 0;
+    padding: 10px 10px;
     border: 2px solid black;
     border-radius: 5px;
     font-size: 20px;
@@ -37,20 +37,3 @@ html, body{
     width: 100px;
 }
 
-.button1{
-    width: 100px;
-    border: 2px solid black;
-    font-size: 20px;
-    border-radius: 5px;
-    padding: 10px 0;
-    
-}
-
-.buttonD{
-    width: 100px;
-    border: 2px solid black;
-    font-size: 20px;
-    border-radius: 5px;
-    padding: 10px 0;
-   
-}
