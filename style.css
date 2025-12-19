@@ -7,14 +7,19 @@ html, body{
 }
 
 .button{
-    padding: 20px;
-    margin: 0 3px;
-    border: 2px solid black;
-    border-radius: 9px;
+    width: 70px;
+    height: 70px;
+    margin: 0 6px;
+    border-radius: 50%;
+    border: none;
+    font-size: 40px;
     cursor: pointer;
-    width: 80px;
-    font-size: 18px;
-    background-color: #94B4C1;
+    background-color: #44444E;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
 }
 
 .row{
@@ -28,7 +33,7 @@ html, body{
 .row input{
     margin: 0;
     padding: 10px 10px;
-    border: 2px solid black;
+    border: 3px solid black;
     border-radius: 5px;
     font-size: 25px;
     width: 298px;
